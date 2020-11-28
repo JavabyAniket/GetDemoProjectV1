@@ -18,7 +18,7 @@ public static void main(String[] args) {
 		al.add(2020);
 		al.add(15.5);
 		al.add("A");
-// hello guys		
+// hello guys	  hiiiiii	
 
 		System.out.println(al);
 		// size of Arrylist
